@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Jogadores</string>
+    <string name="Jogador1">M.Neuer 1</string>
+    <string name="Jogador2">Antonio Rüdiger 2</string>
+    <string name="Jogador3">David Raum 3</string>
+    <string name="Jogador4">Matthias Ginter 4</string>
+    <string name="Jogador5">Thilo Kehrer 5</string>
+    <string name="Jogador6">Joshua Kimmich 6</string>
+    <string name="Jogador7">Kai Havertz 7</string>
+    <string name="Jogador8">Leon Goretzka 8</string>
+    <string name="Jogador9">Niclas Füllkrug 9</string>
+    <string name="Jogador10">Serge Gnabry 10</string>
+    <string name="Jogador11">Mario Götze 11</string>
+    <string name="Jogador12">Kevin Trapp 12</string>
+    <string name="Jogador13">Thomas Müller 13</string>
+    <string name="Jogador14">Jamal Musiala 14</string>
+    <string name="Jogador15">Niklas Süle 15</string>
+    <string name="Jogador16">Lukas Klostermann 16</string>
+    <string name="Jogador17">Julian Brandt 17</string>
+    <string name="Jogador18">Jonas Hofmann 18</string>
+    <string name="Jogador19">Leroy Sané 19</string>
+    <string name="Jogador20">Christian Günter 20</string>
+    <string name="Jogador21">İlkay Gündoğan 21</string>
+    <string name="Jogador22">ter Stegen 22</string>
+    <string name="Jogador23">Nico Schlotterbeck 23</string>
+    <string name="Jogador24">İlkay Gündoğan 21</string>
+    <string name="Jogador25">ter Stegen 22</string>
+    <string name="Jogador26">Nico Schlotterbeck 23</string>
+</resources>
